@@ -1,4 +1,4 @@
-# EZPRint By Brainiacs
+# EZPrint By Brainiacs
 
 <div align="center">
   
