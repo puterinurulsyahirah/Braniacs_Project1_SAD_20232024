@@ -18,11 +18,11 @@
 ## Course Information
 📍 Lecturer : Dr. Layla Rasheed Abdallah Hasan
 
-📍 Course : System Analysis and Design ( SECD2613 )
+📍 Course   : System Analysis and Design ( SECD2613 )
 
-📍 Section : 09
+📍 Section  : 09
 
-📍 Session : 2023 / 2024 Semester 2
+📍 Session  : 2023 / 2024 Semester 2
 
 ## Project Information
 📍 Project Title : Improving Printing Service With EZPrint
