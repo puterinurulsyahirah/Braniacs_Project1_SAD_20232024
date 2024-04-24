@@ -1,2 +1,2 @@
 # Proposed Changes
-** Providing task completion summary for issue #2
+** Providing task completion summary for issue #
