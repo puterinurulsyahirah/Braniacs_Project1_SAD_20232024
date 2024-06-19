@@ -8,8 +8,6 @@
 
 ## Meet the Brainiacs !
 
-<img align="right" height=200 width=300 src="https://github.com/puterinurulsyahirah/Braniacs_Project1_SAD_20232024/blob/dba3dd37682a6d7856a5ff8c5726823040311062/Group%20Members.jpg"/>
-
 📍 Puteri Nurul Syahirah Binti Mohd Nazri ( Leader )
 
 📍 Nur Farhanah Husni Binti Nor Faizal
@@ -17,6 +15,8 @@
 📍 Nur Amiera Zulaikha Binti Hardi
 
 📍 Erika Binti Hawapi
+
+</div>
 
 ## Course Information
 📍 Lecturer : Dr. Layla Rasheed Abdallah Hasan
