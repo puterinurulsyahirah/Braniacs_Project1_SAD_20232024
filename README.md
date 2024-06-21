@@ -7,6 +7,7 @@
 </div>
 
 ## Meet the Brainiacs !
+
 📍 Puteri Nurul Syahirah Binti Mohd Nazri ( Leader )
 
 📍 Nur Farhanah Husni Binti Nor Faizal
@@ -14,6 +15,8 @@
 📍 Nur Amiera Zulaikha Binti Hardi
 
 📍 Erika Binti Hawapi
+
+</div>
 
 ## Course Information
 📍 Lecturer : Dr. Layla Rasheed Abdallah Hasan
@@ -31,6 +34,3 @@
 
 ## Project Description
 Our team is proposing a new printing system, called EZPrint for KTDI's Printing Service to escalate its services and fulfil users requirements and satisfactions. This is because the current system used by KTDI are facing several challenges and problems that should be noted to take immediate actions and solve them effectively.
-
-## Project Phase Report
-📍 [Phase 1 - Proposal and Planning](https://github.com/puterinurulsyahirah/Braniacs_Project1_SAD_20232024/blob/main/Phase%201%20(%20Proposal%20and%20Planning%20).pdf) 
