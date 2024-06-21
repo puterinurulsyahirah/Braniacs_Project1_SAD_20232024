@@ -1,2 +1,2 @@
 # Proposed Changes
-** Providing update on task completion for Information Gathering Process
+** Providing update on task completion of Information Gathering Process
