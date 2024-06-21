@@ -1,2 +1,2 @@
 # Proposed Changes
-** Providing task completion summary for Requirement Analysis ( 2 )
+** Providing update on task completion of Information Gathering Process
